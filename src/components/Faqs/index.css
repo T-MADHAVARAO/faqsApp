@@ -1,0 +1,14 @@
+/* Write your code here. */
+.bg {
+  width: 100vw;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+ul {
+  list-style: none;
+  width: 90%;
+}
